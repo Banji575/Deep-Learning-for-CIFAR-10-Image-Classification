@@ -19,7 +19,7 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different class
 1. Clone this repository to your local machine.
 
 ```
-git clone https://github.com/yourusername/cifar10-image-classification.git
+git clone https://github.com/Banji575/Deep-Learning-for-CIFAR-10-Image-Classification.git
 ```
 
 2. Install the required dependencies using `pip`.
